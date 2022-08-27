@@ -8,7 +8,7 @@ Love developing products and seeing the apps I develop be used by people. Origin
 -   ✉️  You can contact me at [romelclavel.dev@gmail.com](mailto:romelclavel.dev@gmail.com)
 -   🧠  I'm learning Flutter and NextJS at the time.
 -   🤝  I'm open to collaborating on any project that sounds interesting and fun.
--   ⚡  Started studting something related to code just because. Now I love it.
+-   ⚡  Started studying something related to code just because. I now love it.
 
 ## Skills
 
@@ -70,7 +70,7 @@ Love developing products and seeing the apps I develop be used by people. Origin
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RomelClavel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/romel-clavel-4b5b66228/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/RomelClavel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/romel-clavel/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
